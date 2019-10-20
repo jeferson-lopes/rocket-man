@@ -15,50 +15,78 @@ body {
     margin-left: -500px;
     height: 100px;
     width: 5px;
-    background-color: #373737;
+    background-color: #6e6e6e;
 }
 
 #linha2 {
     display: float;
     height: 200px;
-    width: 3px;
+    width: 5px;
     margin-left: -300px;
-    background-color: #373737;
+    background-color: #6e6e6e;
 }
 
 #linha3 {
     display: float;
     height: 150px;
-    width: 3px;
+    width: 5px;
     margin-left: 200px;
-    background-color: #373737;
+    background-color: #6e6e6e;
 }
 
 #linha4 {
     margin-top: -300px;
     display: float;
     height: 50px;
-    width: 3px;
+    width: 5px;
     margin-left: 330px;
-    background-color: #373737;
+    background-color: #6e6e6e;
 }
 
 #linha5 {
     margin-top: -300px;
     display: float;
     height: 100px;
-    width: 3px;
+    width: 5px;
     margin-left: -360px;
-    background-color: #373737;
+    background-color: #6e6e6e;
 }
 
-#linha5 {
+#linha6 {
     margin-top: -300px;
     display: float;
     height: 200px;
-    width: 3px;
+    width: 5px;
     margin-left: 160px;
-    background-color: #373737;
+    background-color: #6e6e6e;
+}
+
+#linha7 {
+    margin-top: -100px;
+    display: float;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    margin-left: 200px;
+    background-color: #fbff00;
+}
+#linha8 {
+    margin-top: -10px;
+    display: float;
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    margin-left: -200px;
+    background-color: #fbff00;
+}
+#linha9 {
+    margin-top: -10px;
+    display: float;
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    margin-left: -100px;
+    background-color: #fbff00;
 }
 
 .desceLinha1 {
@@ -68,7 +96,7 @@ body {
 }
 
 .desceLinha2 {
-    margin-top: 200px;
+    margin-top: 500px;
     opacity: 0;
     transition: 1s;
 }

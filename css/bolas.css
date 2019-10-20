@@ -2,16 +2,19 @@
     position: fixed;
     left: 30%;
     right: 30%;
-    top: 550px;
+    top: 545px;
 }
-.bolaRoxa{
+
+.bolaRoxa {
     display: inline-block;
     width: 80px;
     height: 80px;
     border-radius: 50%;
     background-color: #8e44ad;
+    box-shadow: 0 15px 18px 0 #8e44ad, 0 0px 80px 0 #8e44ad;
 }
-.bolaAzul{
+
+.bolaAzul {
     display: inline-block;
     margin-left: -50px;
     margin-top: 30px;
@@ -19,8 +22,10 @@
     height: 80px;
     border-radius: 50%;
     background-color: #2980b9;
+    box-shadow: 0 20px 18px 0 #2980b9, 0 0px 80px 0 #2980b9;
 }
-.bolaVerde{
+
+.bolaVerde {
     display: inline-block;
     margin-left: -50px;
     margin-top: 30px;
@@ -28,8 +33,10 @@
     height: 80px;
     border-radius: 50%;
     background-color: #27ae60;
+    box-shadow: 0 20px 18px 0 #27ae60, 0 0px 80px 0 #27ae60;
 }
-.bolaAmerela{
+
+.bolaAmerela {
     display: inline-block;
     margin-left: -50px;
     margin-top: 30px;
@@ -37,8 +44,10 @@
     height: 80px;
     border-radius: 50%;
     background-color: #f1c40f;
+    box-shadow: 0 20px 18px 0 #f1c40f, 0 0px 80px 0 #f1c40f;
 }
-.bolaVermelha{
+
+.bolaVermelha {
     display: inline-block;
     margin-left: -50px;
     margin-top: 30px;
@@ -46,14 +55,17 @@
     height: 80px;
     border-radius: 50%;
     background-color: #e74c3c;
+    box-shadow: 0 20px 18px 0 #e74c3c, 0 0px 80px 0 #e74c3c;
 }
-.aumentaBola1{
+
+.aumentaBola1 {
     width: 180px;
     height: 180px;
     border-radius: 50%;
     transition: 0.5s;
 }
-.diminuiBola1{
+
+.diminuiBola1 {
     width: 80px;
     height: 80px;
     border-radius: 50%;

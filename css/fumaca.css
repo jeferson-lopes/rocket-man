@@ -2,23 +2,27 @@
     position: fixed;
     left: 30%;
     right: 30%;
-    top: 250px;
+    top: 230px;
 }
 
 #fumacaVermelha {
+    
     display: inline-block;
     margin-top: 200px;
     width: 15px;
     height: 150px;
+    border-bottom-left-radius: 50px;
     background-color: #e74c3c;
+    box-shadow: 0 20px 50px 0 #e74c3c, 0 10px 50px 0 #e74c3c;
 }
 
 #fumacaAmarela {
     display: inline-block;
     width: 15px;
-    height: 150px;
+    height: 250px;
     margin-left: -5px;
     background-color: #f1c40f;
+    box-shadow: 0 10px 18px 0 #f1c40f, 0 10px 10px 0 #f1c40f;
 }
 
 #fumacaVerde {
@@ -27,6 +31,7 @@
     height: 150px;
     margin-left: -5px;
     background-color: #27ae60;
+    box-shadow: 0 10px 18px 0 #27ae60, 0 10px 100px 0 #27ae60;
 }
 
 #fumacaAzul {
@@ -35,6 +40,7 @@
     height: 150px;
     margin-left: -5px;
     background-color: #2980b9;
+    box-shadow: 0 10px 18px 0 #2980b9, 0 10px 100px 0 #2980b9;
 }
 
 #fumacaRoxa {
@@ -43,4 +49,6 @@
     height: 150px;
     margin-left: -5px;
     background-color: #8e44ad;
+    box-shadow: 0 10px 18px 0 #8e44ad, 0 10px 100px 0 #8e44ad;
+    
 }
