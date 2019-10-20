@@ -1,0 +1,46 @@
+#fumaca {
+    position: fixed;
+    left: 30%;
+    right: 30%;
+    top: 250px;
+}
+
+#fumacaVermelha {
+    display: inline-block;
+    margin-top: 200px;
+    width: 15px;
+    height: 150px;
+    background-color: #e74c3c;
+}
+
+#fumacaAmarela {
+    display: inline-block;
+    width: 15px;
+    height: 150px;
+    margin-left: -5px;
+    background-color: #f1c40f;
+}
+
+#fumacaVerde {
+    display: inline-block;
+    width: 15px;
+    height: 150px;
+    margin-left: -5px;
+    background-color: #27ae60;
+}
+
+#fumacaAzul {
+    display: inline-block;
+    width: 15px;
+    height: 150px;
+    margin-left: -5px;
+    background-color: #2980b9;
+}
+
+#fumacaRoxa {
+    display: inline-block;
+    width: 15px;
+    height: 150px;
+    margin-left: -5px;
+    background-color: #8e44ad;
+}

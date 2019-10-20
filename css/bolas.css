@@ -1,0 +1,61 @@
+#bolas {
+    position: fixed;
+    left: 30%;
+    right: 30%;
+    top: 550px;
+}
+.bolaRoxa{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #8e44ad;
+}
+#bolaAzul{
+    display: inline-block;
+    margin-left: -50px;
+    margin-top: 30px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #2980b9;
+}
+#bolaVerde{
+    display: inline-block;
+    margin-left: -50px;
+    margin-top: 30px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #27ae60;
+}
+#bolaAmerela{
+    display: inline-block;
+    margin-left: -50px;
+    margin-top: 30px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #f1c40f;
+}
+#bolaVermelha{
+    display: inline-block;
+    margin-left: -50px;
+    margin-top: 30px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #e74c3c;
+}
+.aumentaBola1{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+.diminuiBola1{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    transition: 0.5s;
+}

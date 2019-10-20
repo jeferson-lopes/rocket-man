@@ -1,0 +1,74 @@
+body {
+    background-color: #1D1D1D;
+    overflow: hidden;
+}
+
+#linhasFundo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#linha1 {
+    display: float;
+    margin-top: -500px;
+    margin-left: -500px;
+    height: 100px;
+    width: 5px;
+    background-color: #373737;
+}
+
+#linha2 {
+    display: float;
+    height: 200px;
+    width: 3px;
+    margin-left: -300px;
+    background-color: #373737;
+}
+
+#linha3 {
+    display: float;
+    height: 150px;
+    width: 3px;
+    margin-left: 200px;
+    background-color: #373737;
+}
+
+#linha4 {
+    margin-top: -300px;
+    display: float;
+    height: 50px;
+    width: 3px;
+    margin-left: 330px;
+    background-color: #373737;
+}
+
+#linha5 {
+    margin-top: -300px;
+    display: float;
+    height: 100px;
+    width: 3px;
+    margin-left: -360px;
+    background-color: #373737;
+}
+
+#linha5 {
+    margin-top: -300px;
+    display: float;
+    height: 200px;
+    width: 3px;
+    margin-left: 160px;
+    background-color: #373737;
+}
+
+.desceLinha1 {
+    margin-top: 1000px;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.desceLinha2 {
+    margin-top: 200px;
+    opacity: 0;
+    transition: 1s;
+}
