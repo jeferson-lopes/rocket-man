@@ -11,7 +11,7 @@
     border-radius: 50%;
     background-color: #8e44ad;
 }
-#bolaAzul{
+.bolaAzul{
     display: inline-block;
     margin-left: -50px;
     margin-top: 30px;
@@ -20,7 +20,7 @@
     border-radius: 50%;
     background-color: #2980b9;
 }
-#bolaVerde{
+.bolaVerde{
     display: inline-block;
     margin-left: -50px;
     margin-top: 30px;
@@ -29,7 +29,7 @@
     border-radius: 50%;
     background-color: #27ae60;
 }
-#bolaAmerela{
+.bolaAmerela{
     display: inline-block;
     margin-left: -50px;
     margin-top: 30px;
@@ -38,7 +38,7 @@
     border-radius: 50%;
     background-color: #f1c40f;
 }
-#bolaVermelha{
+.bolaVermelha{
     display: inline-block;
     margin-left: -50px;
     margin-top: 30px;
