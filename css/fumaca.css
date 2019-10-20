@@ -5,7 +5,7 @@
     top: 230px;
 }
 
-#fumacaVermelha {
+.fumacaVermelha {
     
     display: inline-block;
     margin-top: 200px;
@@ -16,7 +16,7 @@
     box-shadow: 0 20px 50px 0 #e74c3c, 0 10px 50px 0 #e74c3c;
 }
 
-#fumacaAmarela {
+.fumacaAmarela {
     display: inline-block;
     width: 15px;
     height: 250px;
@@ -25,7 +25,7 @@
     box-shadow: 0 10px 18px 0 #f1c40f, 0 10px 10px 0 #f1c40f;
 }
 
-#fumacaVerde {
+.fumacaVerde {
     display: inline-block;
     width: 15px;
     height: 150px;
@@ -34,7 +34,7 @@
     box-shadow: 0 10px 18px 0 #27ae60, 0 10px 100px 0 #27ae60;
 }
 
-#fumacaAzul {
+.fumacaAzul {
     display: inline-block;
     width: 15px;
     height: 150px;
@@ -43,7 +43,7 @@
     box-shadow: 0 10px 18px 0 #2980b9, 0 10px 100px 0 #2980b9;
 }
 
-#fumacaRoxa {
+.fumacaRoxa {
     display: inline-block;
     width: 15px;
     height: 150px;
